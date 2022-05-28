@@ -1,6 +1,7 @@
 body{
   background-image: url("assets/Pattern.png");
   background-repeat: repeat;
+  margin: 0px
 }
 .container{
     max-width:900px;
@@ -64,6 +65,7 @@ h2,h3{
 }
 aside img{
     box-shadow:5px 5px 5px gray;
+    margin-right: 8px
 }
 main,aside{
     background-color: #ffffff;
